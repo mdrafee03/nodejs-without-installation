@@ -1,1 +1,1 @@
-call %~dp0nodejs/node %~dp0project/index.js
+call %~dp0nodejs/http-server %~dp0project
