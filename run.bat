@@ -1,0 +1,1 @@
+call %~dp0nodejs/node %~dp0project/index.js
